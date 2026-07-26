@@ -5,10 +5,6 @@
 // WiFi Credentials
 // =========================
 
-// Development WiFi
-//#define WIFI_SSID      "VIJAYA PRADHAP 2.4G"
-//#define WIFI_PASSWORD  "8056476348"
-
 // For Wokwi Submission
  #define WIFI_SSID      "Wokwi-GUEST"
  #define WIFI_PASSWORD  ""
